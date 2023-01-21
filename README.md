@@ -2,5 +2,5 @@
 
  # its a simple project , i created a QR-code using HTML and CSS.
  
- # U can check my code in my repo.
+ # U can check my code.
  
